@@ -1,0 +1,15 @@
+# Ignore IntelliJ directory
+.idea/
+
+#Node Modules & libraries
+node_modules
+lib/c3
+
+# More ignoring for IDE stuff
+*.iml
+
+# Ignore gulp build folder
+public/build
+
+# Ignore Mac File System files
+.DS_Store
